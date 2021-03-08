@@ -62,12 +62,14 @@
       background-color: #92d3b5;
       position: relative;
       padding-top: 100px;
+      height: 100%;
     }
 
   .bottom-container {
-    background-color:  #92d3b5;
+      background-color:  #92d3b5;
       padding-top: 10px;
-    padding-bottom: 10px;
+      padding-bottom: 10px;
+      height: 100%;
   }
 
   .top-cloud{
