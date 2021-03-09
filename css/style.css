@@ -62,18 +62,25 @@
       background-color: #92d3b5;
       position: relative;
       padding-top: 100px;
+      width: 100%;
       min-height: 100vh;
     }
 
   .bottom-container {
-      background-color:  #92d3b5;
+    background-color:  #92d3b5;
       padding-top: 10px;
-      padding-bottom: 10px;
-      min-height: 100vh;
+    padding-bottom: 10px;
   }
- .middle-container {
-min-height: 100vh;
-} 
+
+  .middle-container {
+      height: 100%;
+  }
+
+  .mountain{
+    position: absolute;
+    bottom: 0;
+    right: 25%;
+  }
 
   .top-cloud{
     position: absolute;
